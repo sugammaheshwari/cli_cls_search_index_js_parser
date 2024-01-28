@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "name": "iwarrenty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^20.11.8",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
